@@ -7,3 +7,4 @@ xhofe/alist:latest
 #添加需要的镜像
 mysql
 portainer/portainer-ce
+openjdk:8-jre-slim
