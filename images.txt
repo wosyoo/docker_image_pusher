@@ -8,3 +8,4 @@ xhofe/alist:latest
 mysql
 portainer/portainer-ce
 openjdk:8-jre-slim
+mysql:8.0.32
